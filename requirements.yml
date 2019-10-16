@@ -1,7 +1,7 @@
 ---
-- src: https://github.com/redhat-cop/openshift-applier
+- src: https://github.com/ramius345/openshift-applier
   version: master
 
-- src: https://github.com/redhat-cop/operationalizing-openshift-lab
+- src: https://github.com/ramius345/operationalizing-openshift-lab
   name: self
   version: master
